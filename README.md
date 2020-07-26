@@ -35,4 +35,7 @@ TIP: Once you have cloned/zipped/copied the script onto your local machine, make
     - The reason this template style is required is because the script will locate the *first* "we" in the feedback template that you supply the script, and replace it with `{student_name} and I`. 
     - Once you have your desired template inputted into the prompt, press enter.
 4. Your automated feedback will be outputted and you can copy and paste it into the VIPKid feedback portal. 
-5. To run the script the again, simply press the *up* arrow in the command prompt, which will run the previous command, such as: `py desktop\auto_feedback.py`
+5. To run the script the again for the next student feedback, simply press the *up* arrow in the command prompt, which will run the previous command, such as: `py desktop\auto_feedback.py`
+
+## Contribute
+-------
